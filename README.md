@@ -25,9 +25,7 @@ Supplementary results on CUB200-2011.
 
 If this code is useful, please cite this paper.
 
-@inproceedings{
-
-  chen2020improving,
+@inproceedings{chen2020improving,
 
   title={Improving Knowledge Distillation via Category Structure},
   
