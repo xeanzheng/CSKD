@@ -7,9 +7,11 @@ Run train_cifar.py for training CSKD in CIFAR datasets.
 
 <br/>
 
-Pretrained teacher model Resnet101 has been released in Baidu Netdisk:<br/>
+Pretrained teacher model Resnet101 has been released (v1.0). 
+Baidu Netdisk link is also provided:<br/>
 link: https://pan.baidu.com/s/1ew_FqygwS-sRXwUS77yzag<br/>
 pwd: 51yi 
+
 
 <br/>
 
